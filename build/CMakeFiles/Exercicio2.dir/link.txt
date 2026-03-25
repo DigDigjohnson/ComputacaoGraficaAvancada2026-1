@@ -1,0 +1,1 @@
+/usr/bin/c++  -arch arm64 -Wl,-search_paths_first -Wl,-headerpad_max_install_names CMakeFiles/Exercicio2.dir/src/Exercicio2.cpp.o CMakeFiles/Exercicio2.dir/common/glad.c.o -o Exercicio2  _deps/glfw-build/src/libglfw3.a -framework OpenGL _deps/glm-build/glm/libglm.a -framework Cocoa -framework IOKit -framework CoreFoundation

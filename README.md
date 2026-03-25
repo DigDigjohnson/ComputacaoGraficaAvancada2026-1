@@ -1,2 +1,3 @@
-# ComputacaoGraficaAvancada2026-1
-Repositório para as entregas de Computação Gráfica Avançada, turma de 2026/1.
+# Computação Gráfica Avançada - 2026/1
+
+Repositório de Rodrigo de Moraes Lehnen para os exercícios e trabalhos da matéria.
